@@ -1,0 +1,25 @@
+﻿Experiment_group,Means of GFP+ cells (%),Cell_lines
+Control,0.013,EJ28Pi
+Control,0.025,EJ28Pi
+Control,0.017,EJ28Pi
+Control,0.01,TCCSUPPi
+Control,0.02,TCCSUPPi
+Control,0.05,TCCSUPPi
+Passage 5,94.86,EJ28Pi
+Passage 5,96.76,EJ28Pi
+Passage 5,95.2,EJ28Pi
+Passage 5,85.46,TCCSUPPi
+Passage 5,86.31,TCCSUPPi
+Passage 5,83.9,TCCSUPPi
+Passage 10,94.98,EJ28Pi
+Passage 10,95.8,EJ28Pi
+Passage 10,97.1,EJ28Pi
+Passage 10,84.66,TCCSUPPi
+Passage 10,86.2,TCCSUPPi
+Passage 10,83.9,TCCSUPPi
+Passage 15,94.94,EJ28Pi
+Passage 15,95.3,EJ28Pi
+Passage 15,93.7,EJ28Pi
+Passage 15,84.79,TCCSUPPi
+Passage 15,85.8,TCCSUPPi
+Passage 15,87.3,TCCSUPPi

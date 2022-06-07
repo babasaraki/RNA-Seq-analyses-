@@ -1,0 +1,19 @@
+﻿TCCSUP_cells,IFNβ (pg/mL),TCCSUP control vs TCCSUPPi cells
+Control cells,35.5,Mock
+Control cells,2382,wNDV only
+Control cells,35.8,anti-IFNβ + wNDV
+Control cells,36.8,Mock
+Control cells,2393,wNDV only
+Control cells,38.3,anti-IFNβ + wNDV
+Control cells,35.4,Mock
+Control cells,2379,wNDV only
+Control cells,36.7,anti-IFNβ + wNDV
+PI cells,381.7,Mock
+PI cells,198.5,wNDV only
+PI cells,39.28,anti-IFNβ + wNDV
+PI cells,383.6,Mock
+PI cells,200.1,wNDV only
+PI cells,40.2,anti-IFNβ + wNDV
+PI cells,390,Mock
+PI cells,199.3,wNDV only
+PI cells,38.1,anti-IFNβ + wNDV

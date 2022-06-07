@@ -1,0 +1,13 @@
+Gene,Delta_CT,Treatments
+OCT4,1.25,Direct Exposure
+SOX2,0.4,Direct Exposure
+NANOG,0.47,Direct Exposure
+REX,1.09,Direct Exposure
+OCT4,1.17,Indirect Exposure
+SOX2,0.39,Indirect Exposure
+NANOG,0.2,Indirect Exposure
+REX,0.99,Indirect Exposure
+OCT4,0.88,Negative Control
+SOX2,0.37,Negative Control
+NANOG,0.29,Negative Control
+REX,0.98,Negative Control
