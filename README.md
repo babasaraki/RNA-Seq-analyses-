@@ -1,2 +1,2 @@
-# RNA-seqEJ28
+# RNA-Seq Analyses 
 RNA-Seq
